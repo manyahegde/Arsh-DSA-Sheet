@@ -1,5 +1,4 @@
 # sort colors in place without using sort() or sorted()
-
 from collections import Counter
 def sortColors(nums):
     d=Counter(nums)
