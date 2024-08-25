@@ -1,4 +1,4 @@
-# no. subarrays whose sum equals k
+# no. of subarrays whose sum equals k
 def subarraysum(nums, k):
     prefixsum=0
     d={0:1}
